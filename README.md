@@ -1,2 +1,2 @@
 # HTML_Classes
- This is my HTML Classes sode in which i am studied HTML and also practiced in it.
+ This is my HTML Classes code in which I am studied HTML and also practiced in it.
